@@ -1,0 +1,411 @@
+{
+  "phoneNumbers": [
+    {
+      "id": 1,
+      "city": "Chishinau",
+      "number": "022 210-210"
+    },
+    {
+      "id": 2,
+      "city": "Balti",
+      "number": "023 120-210"
+    },
+    {
+      "id": 3,
+      "city": "Ceadâr Lunga",
+      "number": "079 22-44-66"
+    },
+    {
+      "id": 4,
+      "city": "Cahul",
+      "number": "078 848 484"
+    },
+    {
+      "id": 5,
+      "city": "Comrat",
+      "number": "078 22-00-88"
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "alt": "La Placinte Logo",
+      "imgUrl": "https://www.andys.md/assets/img/brands/LaPlacinte.svg",
+      "redirectUrl": "https://laplacinte.md/"
+    },
+    {
+      "id": 2,
+      "alt": "CiaoCacao Logo",
+      "imgUrl": "https://www.andys.md/assets/img/brands/CiaoCacao.svg",
+      "redirectUrl": "https://ciaocacao.md/"
+    },
+    {
+      "id": 3,
+      "alt": "Gustland Logo",
+      "imgUrl": "https://www.andys.md/assets/img/brands/Gustland.png",
+      "redirectUrl": "https://gustland.md/"
+    }
+  ],
+  "nav": [
+    {
+      "id": 1,
+      "title": "Menu",
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "Pizza"
+        },
+        {
+          "id": 2,
+          "title": "Breakfast"
+        },
+        {
+          "id": 3,
+          "title": "Snaks"
+        },
+        {
+          "id": 4,
+          "title": "Salads"
+        },
+        {
+          "id": 5,
+          "title": "Soups"
+        },
+        {
+          "id": 6,
+          "title": "Main Dishes"
+        },
+        {
+          "id": 7,
+          "title": "Box"
+        },
+        {
+          "id": 8,
+          "title": "Happy Box"
+        },
+        {
+          "id": 9,
+          "title": "Party menu"
+        },
+        {
+          "id": 10,
+          "title": "Lunch-Box - Announcement"
+        },
+        {
+          "id": 11,
+          "title": "Andy`s Bakery"
+        },
+        {
+          "id": 12,
+          "title": "Cake"
+        },
+        {
+          "id": 13,
+          "title": "Dessert"
+        },
+        {
+          "id": 14,
+          "title": "Semi-finished products"
+        },
+        {
+          "id": 15,
+          "title": "Supplements"
+        },
+        {
+          "id": 16,
+          "title": "Beverages"
+        },
+        {
+          "id": 17,
+          "title": "Alcohol"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Restaurants"
+    },
+    {
+      "id": 3,
+      "title": "News"
+    }
+  ],
+  "topSlider": [
+    {
+      "id": 1,
+      "img": "https://andys.md/public/sliders/thumbs/version_2560x916x1/20c0739f13d8a0327d0ed09fdf43c04a.jpg"
+    },
+    {
+      "id": 2,
+      "img": "https://andys.md/public/sliders/thumbs/version_2560x916x1/99e4fed4f4c30baa2e5787cd067edd4a.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://andys.md/public/sliders/thumbs/version_2560x916x1/a0b148d122daa4057a7c2aa21419f90b.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Pizza",
+      "items": [
+        {
+          "id": 1,
+          "name": "Rancho",
+          "price": 105,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/16299a11219bd72f0c8fd4010a07a915.jpg",
+          "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+          "quantity": 580
+        },
+        {
+          "id": 2,
+          "name": "Neapolitana",
+          "price": 105,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/e82699285be9e14654e7ca2476437b49.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Greek",
+          "price": 110,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/7c14b1449f6d8adca5575c7a5a5a87a9.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Mario",
+          "price": 105,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/737c8692719fc56eb65cd525be837aef.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Pepperoni",
+          "price": 105,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/aacd0811da0fe2823176bac8da9b8295.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Breakfast",
+      "items": [
+        {
+          "id": 1,
+          "name": "Vegetables Omelette",
+          "price": 75,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/2f8ae501168a7747ea173ac05e841d09.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Bacon Omelette",
+          "price": 80,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/3ea0f1fe17b431078d2d2ad82a7917e5.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Bacon Omelette",
+          "price": 90,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/2b3f8bebdb59b30ab85e8e7f7090d562.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Bacon Omelette",
+          "price": 80,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/035a5c37cc637638af27b3d070476c39.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Bacon Omelette",
+          "price": 115,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/c4862c926406f87b6735cf1ef2d12fe6.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Snaks",
+      "items": [
+        {
+          "id": 1,
+          "name": "Chicken sandwich",
+          "price": 85,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/2c4f93957b26ca74497e9a4bae4bdf9d.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Potato surprise with cheese",
+          "price": 65,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/dff9eaf15b29fcaf6e1ac9354f7fdedf.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Potato surprise with meat",
+          "price": 70,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/dff9eaf15b29fcaf6e1ac9354f7fdedf.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Pepper Bruschetta",
+          "price": 105,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/c2c57f3fa901aa37cab8b863e99f7616.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Salmon Bruschetta",
+          "price": 135,
+          "currency": "mdl",
+          "urlImg": "https://andys.md/public/menu/thumbs/version_220x310x1/134441175c35b2b5eb48afec55770443.jpg"
+        }
+      ]
+    }
+  ],
+  "footerSlide": [
+    {
+      "id": 1,
+      "img": "https://andys.md/public/photogallery/thumbs/version_1366x775x1/Atmosfera21.jpg"
+    },
+    {
+      "id": 2,
+      "img": "https://andys.md/public/photogallery/thumbs/version_1366x775x1/FASAD_221.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://andys.md/public/photogallery/thumbs/version_1366x775x1/TEAM_312.jpg"
+    }
+  ],
+  "footerList": [
+    {
+      "id": 1,
+      "title": "Company",
+      "list": [
+        {
+          "id": 1,
+          "name": "Career"
+        },
+        {
+          "id": 2,
+          "name": "Feedback"
+        },
+        {
+          "id": 3,
+          "name": "Contacts"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Services",
+      "list": [
+        {
+          "id": 1,
+          "name": "Client card"
+        },
+        {
+          "id": 2,
+          "name": "Corporate clients"
+        },
+        {
+          "id": 3,
+          "name": "Kids parties"
+        },
+        {
+          "id": 4,
+          "name": "Banquets"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Delivery",
+      "list": [
+        {
+          "id": 1,
+          "name": "Chișinău"
+        },
+        {
+          "id": 2,
+          "name": "Bălți"
+        },
+        {
+          "id": 3,
+          "name": "Cahul"
+        },
+        {
+          "id": 4,
+          "name": "Comrat"
+        },
+        {
+          "id": 5,
+          "name": "Ceadâr Lunga"
+        }
+      ]
+    }
+  ],
+  "previewProduct": [
+    {
+      "id": 1,
+      "name": "Rancho",
+      "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+      "quantity": 580,
+      "price": 105,
+      "imgUrl": "https://www.andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Neapolitana",
+      "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+      "quantity": 580,
+      "price": 105,
+      "imgUrl": "https://www.andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Greek",
+      "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+      "quantity": 580,
+      "price": 110,
+      "imgUrl": "https://www.andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mario",
+      "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+      "quantity": 580,
+      "price": 105,
+      "imgUrl": "https://www.andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nicoleta",
+      "email": "nicoleta@gmail.com",
+      "password": "111"
+    },
+    {
+      "id": 2,
+      "name": "Victor",
+      "email": "victor@gmail.com",
+      "password": "000"
+    },
+    {
+      "name": "Tomas",
+      "email": "tomas@gmail.com",
+      "password": "tom",
+      "confirmPassword": "tom",
+      "id": 3
+    }
+  ]
+}
